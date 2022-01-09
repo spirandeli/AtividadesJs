@@ -1,0 +1,19 @@
+{
+  "name": "atividadesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spirandeli/AtividadesJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spirandeli/AtividadesJs/issues"
+  },
+  "homepage": "https://github.com/spirandeli/AtividadesJs#readme"
+}

@@ -10,5 +10,6 @@ function aumentoSalario(planoDetrabalho, salario){
             return ("plano invalido")
     }
 }
+aumentoSalario.toFixed
 
 console.log(aumentoSalario("a", 1300))
